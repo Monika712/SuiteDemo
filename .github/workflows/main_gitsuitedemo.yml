@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'GitSuiteDemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_499B4B50480948F3986292AA77A80C03 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFD340BA3CEE4D15BD46DC8ADF2627FB }}
           package: .
